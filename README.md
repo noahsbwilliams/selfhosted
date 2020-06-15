@@ -4,7 +4,12 @@ Cool tech I use or like for a variety of different uses
 
 ## Cloudy Tech (Kubernetes, Functions etc)
 
-[K3s](https://k3s.io/), a tiny, simple, certified, production-ready Kubernetes distro supporting ARM devices as first-class citizens
+[K3s](https://k3s.io/), a tiny, certified, production-ready Kubernetes distro.
+
+- Super easy to init and configure.
+- Much smaller binary than regular Kubernetes - strips out deprecated APIs, alpha features, and vendor-specific code.
+- Much more flexible system requirements.
+  - Supports ARM devices as first-class citizens.
 
 ## Self-hosting
 
