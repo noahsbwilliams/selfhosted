@@ -21,3 +21,10 @@ Cool tech I use or like for a variety of different uses
   - Treats Desktop Linux & ARM processors as first-class citizens.
 - Offers optional Enterprise support.
   - Deployed in production by the German government.
+
+[Gitea](https://github.com/go-gitea/gitea), a painless, self-hosted Git service.
+
+- Ultra-lightweight GitHub analog.
+- Written in Go and performs like it.
+- ARM64 first-class support - runs well on a Raspberry Pi
+- Supports SSO with LDAP and 0Auth
