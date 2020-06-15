@@ -4,7 +4,7 @@ Cool tech I use or like for a variety of different uses
 
 ## Self-hosting
 
-[K3s](https://k3s.io/), a tiny, certified, production-ready Kubernetes distro.
+[K3s](https://github.com/rancher/k3s), a tiny, certified, production-ready Kubernetes distro.
 
 - Super easy to init and configure.
 - Much smaller binary than regular Kubernetes - strips out deprecated APIs, alpha features, and vendor-specific code.
