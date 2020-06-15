@@ -20,8 +20,8 @@ Cool tech I use or like for a variety of different uses
 
 - Useful for creating shared storage pools between networked machines.
 - Works with or without containers/Kubernetes.
-- Treats ARM devices as first-class citizens
-- Good alternative to NFS shares on Raspberry Pi clusters
+- Treats ARM devices as first-class citizens.
+- Good alternative to NFS shares on Raspberry Pi clusters.
 
 [Nextcloud](https://github.com/nextcloud/server), "Most of G Suite in a Box".
 
