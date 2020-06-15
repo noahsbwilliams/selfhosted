@@ -16,7 +16,7 @@ Cool tech I use or like for a variety of different uses
 [Nextcloud](https://github.com/nextcloud/server), "Most of G Suite in a Box"
 
 - Deluxe collaborative office and communications suite meant for self-hosting on Linux servers.
-- Plays nice with Microsoft office.
+- Plays nice with Microsoft office and Active Directory
 - Client apps available for macOS, Windows, Linux, iOS, Android.
   - Treats Desktop Linux & ARM processors as first-class citizens.
 - Offers optional Enterprise support.
