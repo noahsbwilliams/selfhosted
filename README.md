@@ -2,7 +2,7 @@
 
 Cool tech I use or like for a variety of different uses
 
-## Cloudy Tech (Kubernetes, Functions etc)
+## Self-hosting
 
 [K3s](https://k3s.io/), a tiny, certified, production-ready Kubernetes distro.
 
@@ -10,8 +10,6 @@ Cool tech I use or like for a variety of different uses
 - Much smaller binary than regular Kubernetes - strips out deprecated APIs, alpha features, and vendor-specific code.
 - Much more flexible system requirements.
   - Supports ARM devices as first-class citizens.
-
-## Self-hosting
 
 [Inlets](https://github.com/inlets/inlets), an open-source and self-hostable ingress/firewall-buster proxy.
 
