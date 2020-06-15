@@ -1,4 +1,4 @@
-# stack
+# Noah's Stack
 
 Cool tech I use or like for a variety of different uses
 
