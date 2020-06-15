@@ -28,3 +28,5 @@ Cool tech I use or like for a variety of different uses
 - Written in Go and performs like it.
 - ARM64 first-class support - runs well on a Raspberry Pi
 - Supports SSO with LDAP and 0Auth
+
+[OpenFAAS](https://github.com/openfaas/faas), serverless functions on Kubernetes with no cloud vendor lock-in.
