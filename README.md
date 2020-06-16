@@ -2,8 +2,6 @@
 
 *Apps & tools that run great on-prem.*
 
-## Self-hosting
-
 [K3s](https://github.com/rancher/k3s), a tiny, certified, production-ready Kubernetes distro.
 
 - Super easy to init and configure.
