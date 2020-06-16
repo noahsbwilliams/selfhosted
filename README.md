@@ -4,7 +4,7 @@
 
 Criteria for Inclusion:
 
-- [ ] Must run on both x86-64 and ARM64 CPUs (Intel/AMD machines & Raspberry Pi).
+- [ ] Must support x86-64 and ARM64 CPUs (Intel/AMD machines & Raspberry Pi).
 - [ ] Must be core useful functions must be open-source.
 - [ ] Must come packaged in a public container registry.
 
