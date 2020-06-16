@@ -2,6 +2,12 @@
 
 *Apps & tools that run great on-prem.*
 
+Criteria for Inclusion:
+
+- [ ] Must run on both x86-64 and ARM64 CPUs (Intel/AMD machines & Raspberry Pi).
+- [ ] Must be core useful functions must be open-source.
+- [ ] Must come packaged in a public container registry.
+
 [K3s](https://github.com/rancher/k3s), a tiny, certified, production-ready Kubernetes distribution.
 
 - Super easy to init and configure.
