@@ -2,7 +2,7 @@
 
 *Apps & tools that run great on-prem.*
 
-[K3s](https://github.com/rancher/k3s), a tiny, certified, production-ready Kubernetes distro.
+[K3s](https://github.com/rancher/k3s), a tiny, certified, production-ready Kubernetes distribution.
 
 - Super easy to init and configure.
 - Much smaller binary than regular Kubernetes - strips out deprecated APIs, alpha features, and vendor-specific code.
